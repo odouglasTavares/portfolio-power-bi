@@ -1,0 +1,13 @@
+# Arquivos locais do Power BI Project
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+**/.pbi/unappliedChanges.json
+
+# Temporários e credenciais locais
+~$*
+*.tmp
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
